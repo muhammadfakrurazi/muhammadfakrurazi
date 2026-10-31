@@ -328,6 +328,6 @@ DEVELOPMENT NETWORK
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c2fd6,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
