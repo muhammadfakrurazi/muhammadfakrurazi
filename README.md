@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4c2fd6&height=180&section=header&text=MuhammadFakrurazi%20KAMU&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20Game%20Developer%20%7C%20SA-MP%20/%20open.mp&descSize=18&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4c2fd6&height=180&section=header&text=MuhammadFakrurazi%20fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20Game%20Developer%20%7C%20SA-MP%20/%20open.mp&descSize=18&descAlignY=65" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Always+Learnin;Build.+Learn.+Improve.+Repeat." alt="Typing SVG" />
 
