@@ -33,8 +33,8 @@
 │                                          │
 ├──────────────────────────────────────────┤
 │  CURRENT FOCUS                           │
-│  ├─ Multiplayer Roleplay Systems         │
 │  ├─ Backend & Database Systems           │
+│  ├─ Apk Applications                     │
 │  └─ Web Applications                     │
 │                                          │
 ├──────────────────────────────────────────┤
