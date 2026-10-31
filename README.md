@@ -43,7 +43,6 @@ I'm **Muhammad Fakrurazi**, a developer who specializes in **web applications** 
 
 ### 🌐 Web Applications
 
-- UCP (User Control Panel) for game servers
 - Admin dashboards
 - Responsive landing pages & web tools
 - HTML, CSS, JavaScript, PHP
