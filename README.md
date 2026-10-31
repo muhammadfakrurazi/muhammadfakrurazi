@@ -178,12 +178,6 @@ DEVELOPMENT NETWORK
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
-
 ## 🤝 Let's Work Together
 
 Have a project in mind? Send me a message with your idea, budget, and deadline and I'll reply with a clear plan.
