@@ -35,13 +35,6 @@ I'm **Muhammad Fakrurazi**, a developer who specializes in **web servers** and t
 
 ---
 
-### 🎮 Game Server Development
-- Game systems: account, character, vehicle, inventory, job, faction, business
-- Database integration & data persistence
-
-</td>
-<td width="50%" valign="top">
-
 ### ⚙️ Backend & Database
 - REST API & authentication
 - Server logic and architecture
@@ -61,21 +54,6 @@ I'm **Muhammad Fakrurazi**, a developer who specializes in **web servers** and t
 
 </td>
 <td width="50%" valign="top">
-
-### 📱 Android Development
-- Android game client & launcher
-- In-app download, extraction & update system
-- Built with Android Studio (Java)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
 
 **Languages**
 
@@ -133,9 +111,6 @@ flowchart LR
 DEVELOPMENT NETWORK
 │
 ├── PROGRAMMING
-│   ├─ C
-│   ├─ C++
-│   ├─ PAWN
 │   ├─ Python
 │   ├─ Java
 │   ├─ JavaScript
