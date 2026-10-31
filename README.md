@@ -1,9 +1,4 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MuhammadFakrurazi/MuhammadFakrurazimain/header.svg" width="100%" alt="Muhammad Fakrurazi"/>
-
-</div>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
       <stop offset="0.55" stop-color="#0b1730"/>
       <stop offset="1" stop-color="#0a2a5e"/>
