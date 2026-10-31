@@ -29,19 +29,3 @@
 |   > Build. Learn. Improve. Repeat.                            |
 |                                                               |
 +---------------------------------------------------------------+
-
-fakrurazi@github:~$ whoami
-> Full-Stack Web Engineer & Game Developer
-
-fakrurazi@github:~$ cat active_projects.conf
-> SetVeen System (Data Classification & Venn Visualizer)
-> FreshDetect Platform (AI Food Inspection)
-> Razi Host (Web Hosting & VPS Services)
-
-fakrurazi@github:~$ system-status
-> WEB SYSTEM .............. ONLINE
-> DATABASE ................ ONLINE
-> AI VISION ENGINE ........ ONLINE
-> HOSTING SERVER .......... ONLINE
-
-> SYSTEM READY.
