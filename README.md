@@ -1,3 +1,4 @@
+<img src="./header.svg" width="100%" alt="header"/>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="RAVS DEV header">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
