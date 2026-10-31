@@ -33,37 +33,6 @@ I'm **Rio Revan (Muhammad-Fakrurazi)**, a developer who specializes in **web ser
 
 ---
 
-## ⟨ SYSTEM PROFILE :: IDENTITY CORE ⟩
-
-```text
-┌──────────────────────────────────────────┐
-│  USER     : Muhammad Fakrurazi           │
-│  STATUS   : [ ONLINE ]                   │
-│  VERSION  : 2026                         │
-│                                          │
-├──────────────────────────────────────────┤
-│  ROLES                                   │
-│  ├─ [01] Backend Developer               │
-│  ├─ [02] Game Developer                  │
-│  ├─ [03] Apk Developer                   │
-│  ├─ [04] Fivem Developer                 │
-│  ├─ [05] Web Developer                   │
-│  └─ [06] Android Developer               │
-│                                          │
-├──────────────────────────────────────────┤
-│  CURRENT FOCUS                           │
-│  ├─ Backend & Database Systems           │
-│  ├─ Apk Applications                     │
-│  └─ Web Applications                     │
-│                                          │
-├──────────────────────────────────────────┤
-│  MISSION                                 │
-│  > Build. Learn. Improve. Repeat.        │
-└──────────────────────────────────────────┘
-```
-
----
-
 ### 🎮 Game Server Development
 - Game systems: account, character, vehicle, inventory, job, faction, business
 - Database integration & data persistence
