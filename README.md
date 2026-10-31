@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1d4ed8,100:00d4ff&height=260&section=header&text=Muhammad%20Fakrurazi&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=40&stroke=00d4ff&strokeWidth=1&animation=fadeIn&desc=Backend%20Developer%20%7C%20Game%20Developer%20&descSize=20&descAlign=50&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1d4ed8,100:00d4ff&height=260&section=header&text=Muhammad%20Fakrurazi&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=40&stroke=00d4ff&strokeWidth=1&animation=fadeIn&desc=Backend%20Developer%20%7C%20Game%20Developer%20%7C%20Apk%20Developer&descSize=20&descAlign=50&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Backend+Developer;Game+Developer;SA-MP+and+open.mp+Developer;Always+Learnin" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Backend+Developer;Game+Developer;Web+Developer;Always+Learnin" alt="typing"/>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ravs-Dev&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Fakrurazi&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=2&section=header" width="100%"/>
 
