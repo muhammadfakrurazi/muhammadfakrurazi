@@ -1,10 +1,10 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Muhammad%20Fakrurazi&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Backend%20%C2%B7%20Game%20Server%20%C2%B7%20Web%20Developer%20%C2%B7%20Apk%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Muhammad Fakrurazi banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Muhammad%20Fakrurazi&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Backend%20%C2%B7%20Web%20Developer%20%C2%B7%20APK%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Muhammad Fakrurazi banner" />
 
 <a href="https://github.com/Ravs-Dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+scalable+web+game+systems;Clean+backend.+Solid+database.+Real+results.;Available+for+freelance+%26+custom+projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+scalable+web+systems;Clean+backend.+Solid+database.+Real+results.;Available+for+freelance+%26+custom+projects" alt="Typing animation" />
 </a>
 
 <br/>
@@ -17,11 +17,9 @@
 
 <br/>
 
----
-
 ## 👋 About Me
 
-I'm **Muhammad Fakrurazi**, a developer who specializes in **web servers** and the **backend systems** that keep them running. I build complete, working systems: from the database design and API logic to the in-game features players actually touch.
+I'm **Muhammad Fakrurazi**, a developer who specializes in **web applications** and the **backend systems** that keep them running. I build complete, working systems: from the database design and API logic to the interfaces people actually use.
 
 > **Principle:** build it clean, make it scalable, and ship something you can maintain.
 
@@ -33,33 +31,36 @@ I'm **Muhammad Fakrurazi**, a developer who specializes in **web servers** and t
 <tr>
 <td width="50%" valign="top">
 
----
-
 ### ⚙️ Backend & Database
+
 - REST API & authentication
 - Server logic and architecture
 - **MySQL** schema design & optimization
 - Node.js / PHP / Python services
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌐 Web Applications
+
 - UCP (User Control Panel) for game servers
 - Admin dashboards
 - Responsive landing pages & web tools
 - HTML, CSS, JavaScript, PHP
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=py,java,js,php&theme=dark" alt="Languages" />
-<br/>
-
 
 <br/><br/>
 
@@ -69,9 +70,9 @@ I'm **Muhammad Fakrurazi**, a developer who specializes in **web servers** and t
 
 <br/><br/>
 
-**Mobile · Server · Tools**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,vs&theme=dark" alt="Mobile Server Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vs&theme=dark" alt="Tools" />
 
 </div>
 
@@ -83,6 +84,7 @@ I'm **Muhammad Fakrurazi**, a developer who specializes in **web servers** and t
 flowchart LR
     A[💬 Discuss<br/>Requirements] --> B[📐 Plan<br/>& Design]
     B --> C[⌨️ Build<br/>& Test]
+    C --> D[🚀 Deploy<br/>to Server]
     D --> E[🛟 Support<br/>& Update]
 ```
 
@@ -102,8 +104,6 @@ flowchart LR
 - 📚 Always learning: *build, learn, improve, repeat*
 
 <br/>
-
----
 
 ## ⟨ DEVELOPMENT NETWORK :: SPECIALIZATION ⟩
 
@@ -134,7 +134,7 @@ DEVELOPMENT NETWORK
     └─ Deployment
 ```
 
----
+<br/>
 
 ## 🤝 Let's Work Together
 
