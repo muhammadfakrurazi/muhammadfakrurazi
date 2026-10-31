@@ -1,16 +1,31 @@
-## Hi there 👋
+# ‹ SYSTEM PROFILE :: IDENTITY CORE ›
 
-<!--
-**muhammadfakrurazi/muhammadfakrurazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
++---------------------------------------------------------------+
+|                                                               |
+|   USER      : muhammadfakrurazi                               |                           |
+|   STATUS    : [ ONLINE ]                                      |
+|   ROLE      : Full-Stack Web Engineer & Game Developer        |
+|                                                               |
++---------------------------------------------------------------+
+|                                                               |
+|   ROLES                                                       |
+|   ├── [01] Web Developer (Frontend & Backend)                 |
+|   ├── [02] Game & Physics Canvas Simulator                    |
+|   ├── [03] System Administrator & Hosting Ops                 |
+|   └── [04] Computer Science Student                           |
+|                                                               |
++---------------------------------------------------------------+
+|                                                               |
+|   CURRENT FOCUS                                               |
+|   ├── SetVeen Data Classification System                      |
+|   ├── FreshDetect AI Computer Vision                          |
+|   ├── Web Hosting & Infrastructure (Razi Host)                |
+|   └── Interactive 2D Canvas Physics Mechanics                 |
+|                                                               |
++---------------------------------------------------------------+
+|                                                               |
+|   MISSION                                                     |
+|   > Build. Learn. Improve. Repeat.                            |
+|                                                               |
++---------------------------------------------------------------+
