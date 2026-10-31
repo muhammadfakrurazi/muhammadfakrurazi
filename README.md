@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-I'm **Rio Revan (Muhammad-Fakrurazi)**, a developer who specializes in **web servers** and the **backend systems** that keep them running. I build complete, working systems: from the database design and API logic to the in-game features players actually touch.
+I'm **Muhammad Fakrurazi**, a developer who specializes in **web servers** and the **backend systems** that keep them running. I build complete, working systems: from the database design and API logic to the in-game features players actually touch.
 
 > **Principle:** build it clean, make it scalable, and ship something you can maintain.
 
