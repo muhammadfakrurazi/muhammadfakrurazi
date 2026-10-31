@@ -1,131 +1,23 @@
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="0.55" stop-color="#0b1730"/>
-      <stop offset="1" stop-color="#0a2a5e"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#1f6feb"/>
-      <stop offset="0.5" stop-color="#58a6ff"/>
-      <stop offset="1" stop-color="#00d4ff"/>
-    </linearGradient>
-    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#58a6ff" stroke-opacity="0.07" stroke-width="1"/>
-    </pattern>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="typeClip">
-      <rect x="188" y="170" width="0" height="40">
-        <animate attributeName="width" from="0" to="624" dur="3s" begin="1s" fill="freeze"/>
-      </rect>
-    </clipPath>
-    <clipPath id="round"><rect width="1000" height="280" rx="18"/></clipPath>
-  </defs>
+<div align="center">
 
-  <g clip-path="url(#round)">
-    <!-- background -->
-    <rect width="1000" height="280" fill="url(#bg)"/>
-    <rect width="1000" height="280" fill="url(#grid)"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,40:1d4ed8,100:00d4ff&height=280&section=header&text=RAVS%20DEV&fontSize=85&fontColor=ffffff&fontAlign=50&fontAlignY=42&stroke=00d4ff&strokeWidth=2&animation=fadeIn&desc=Backend%20%C2%B7%20Game%20%C2%B7%20SA-MP%20%2F%20open.mp%20%C2%B7%20Web%20%C2%B7%20Android&descSize=20&descAlign=50&descAlignY=68" width="100%"/>
 
-    <!-- soft glowing orbs -->
-    <circle cx="140" cy="60" r="90" fill="#1f6feb" opacity="0.12">
-      <animate attributeName="cx" values="140;220;140" dur="9s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="860" cy="230" r="110" fill="#00d4ff" opacity="0.10">
-      <animate attributeName="cx" values="860;780;860" dur="11s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.06;0.15;0.06" dur="7s" repeatCount="indefinite"/>
-    </circle>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=%3E+initializing+profile...;%3E+Backend+Developer;%3E+Game+Developer+%7C+SA-MP+%2F+open.mp;%3E+Always+Learnin" alt="typing"/>
 
-    <!-- scanning beam -->
-    <rect x="-120" y="0" width="120" height="280" fill="url(#scan)">
-      <animate attributeName="x" from="-120" to="1000" dur="5s" repeatCount="indefinite"/>
-    </rect>
+<br>
 
-    <!-- rotating HUD rings (right side) -->
-    <g transform="translate(870 140)" opacity="0.9">
-      <circle r="78" fill="none" stroke="#1f6feb" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 10">
-        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
-      </circle>
-      <circle r="58" fill="none" stroke="#58a6ff" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="60 30 10 30">
-        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="14s" repeatCount="indefinite"/>
-      </circle>
-      <circle r="38" fill="none" stroke="#00d4ff" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="2 8">
-        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
-      </circle>
-      <text text-anchor="middle" y="8" font-family="'JetBrains Mono','Courier New',monospace" font-size="22" font-weight="700" fill="#58a6ff" filter="url(#glow)">&lt;/&gt;</text>
-    </g>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00e676?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SA--MP-open.mp-1f6feb?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FiveM-DEVELOPER-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/BACKEND-NODE%20%7C%20PHP%20%7C%20MYSQL-1d4ed8?style=for-the-badge&labelColor=0d1117"/>
 
-    <!-- mirrored rings (left side) -->
-    <g transform="translate(130 140)" opacity="0.7">
-      <circle r="62" fill="none" stroke="#58a6ff" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="3 9">
-        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/>
-      </circle>
-      <circle r="42" fill="none" stroke="#1f6feb" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="40 24">
-        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
-      </circle>
-      <text text-anchor="middle" y="8" font-family="'JetBrains Mono','Courier New',monospace" font-size="22" font-weight="700" fill="#00d4ff" filter="url(#glow)">{ }</text>
-    </g>
+<br><br>
 
-    <!-- window title bar -->
-    <rect x="0" y="0" width="1000" height="34" fill="#0d1117" fill-opacity="0.85"/>
-    <circle cx="24" cy="17" r="5" fill="#ff5f56"/>
-    <circle cx="44" cy="17" r="5" fill="#ffbd2e"/>
-    <circle cx="64" cy="17" r="5" fill="#27c93f"/>
-    <text x="500" y="21" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#8b949e">ravs@github:~/profile — bash</text>
-    <line x1="0" y1="34" x2="1000" y2="34" stroke="#58a6ff" stroke-opacity="0.25"/>
+<img src="https://komarev.com/ghpvc/?username=Ravs-Dev&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge"/>
 
-    <!-- prompt line -->
-    <text x="500" y="76" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="14" fill="#58a6ff" fill-opacity="0">
-      <tspan>$ ./init --profile</tspan>
-      <animate attributeName="fill-opacity" from="0" to="0.9" dur="0.6s" begin="0.2s" fill="freeze"/>
-    </text>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=2&section=header" width="100%"/>
 
-    <!-- title -->
-    <text x="500" y="150" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="84" font-weight="800" letter-spacing="6" fill="url(#accent)" filter="url(#glow)" opacity="0">
-      Muhammad Fakrurazi
-      <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.4s" fill="freeze"/>
-    </text>
-
-    <!-- accent line under title -->
-    <rect x="500" y="162" width="0" height="3" rx="1.5" fill="url(#accent)">
-      <animate attributeName="width" from="0" to="520" dur="1s" begin="0.8s" fill="freeze"/>
-      <animate attributeName="x" from="500" to="240" dur="1s" begin="0.8s" fill="freeze"/>
-    </rect>
-
-    <!-- typed subtitle -->
-    <g clip-path="url(#typeClip)">
-      <text x="188" y="196" font-family="'JetBrains Mono','Courier New',monospace" font-size="20" fill="#e6edf3">Backend Developer | Game Developer | Apk Developer</text>
-    </g>
-    <rect x="188" y="180" width="10" height="20" fill="#58a6ff">
-      <animate attributeName="x" from="188" to="812" dur="3s" begin="1s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="4s" repeatCount="indefinite"/>
-    </rect>
-
-    <!-- status bar -->
-    <rect x="0" y="240" width="1000" height="40" fill="#0d1117" fill-opacity="0.85"/>
-    <line x1="0" y1="240" x2="1000" y2="240" stroke="#58a6ff" stroke-opacity="0.25"/>
-    <circle cx="30" cy="260" r="5" fill="#27c93f">
-      <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
-    </circle>
-    <text x="46" y="265" font-family="'JetBrains Mono','Courier New',monospace" font-size="13" fill="#27c93f">ONLINE</text>
-    <text x="500" y="265" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="13" fill="#8b949e">SA-MP  •  open.mp  •  FiveM  •  Backend  •  Web  •  Android</text>
-    <text x="970" y="265" text-anchor="end" font-family="'JetBrains Mono','Courier New',monospace" font-size="13" fill="#58a6ff">v2026.10</text>
-
-    <!-- HUD corner brackets -->
-    <g fill="none" stroke="#58a6ff" stroke-width="2" stroke-opacity="0.8">
-      <path d="M14 52 V44 H22"/>
-      <path d="M986 52 V44 H978"/>
-      <path d="M14 228 V236 H22"/>
-      <path d="M986 228 V236 H978"/>
-    </g>
-  </g>
+</div>
 
 ---
 
