@@ -4,8 +4,6 @@
 
 </div>
 
-viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="MUhammad Fakrurazi header">
-  <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
       <stop offset="0.55" stop-color="#0b1730"/>
