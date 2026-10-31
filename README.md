@@ -1,21 +1,35 @@
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1d4ed8,100:00d4ff&height=260&section=header&text=Muhammad%20Fakrurazi&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=40&stroke=00d4ff&strokeWidth=1&animation=fadeIn&desc=Backend%20Developer%20%7C%20Game%20Developer%20%7C%20Apk%20Developer&descSize=20&descAlign=50&descAlignY=62" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Muhammad%20Fakrurazi&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Backend%20%C2%B7%20Game%20Server%20%C2%B7%20Web%20Developer%20%C2%B7%20Apk%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Muhammad Fakrurazi banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Backend+Developer;Game+Developer;Web+Developer;Always+Learnin" alt="typing"/>
+<a href="https://github.com/Ravs-Dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+scalable+web+game+systems;Clean+backend.+Solid+database.+Real+results.;Available+for+freelance+%26+custom+projects" alt="Typing animation" />
+</a>
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00e676?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/BACKEND-NODE%20%7C%20PHP%20%7C%20MYSQL-1d4ed8?style=for-the-badge&labelColor=0d1117"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Fakrurazi&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=2&section=header" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadfakrurazi&label=Profile%20Views&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/muhammadfakrurazi?label=Followers&style=for-the-badge&color=1e1b4b&labelColor=0f172a)
+![Status](https://img.shields.io/badge/Status-Open%20for%20Work-22c55e?style=for-the-badge&labelColor=0f172a)
 
 </div>
+
+<br/>
+
+## 👋 About Me
+
+I'm **Rio Revan (Muhammad-Fakrurazi)**, a developer who specializes in **web servers** and the **backend systems** that keep them running. I build complete, working systems: from the database design and API logic to the in-game features players actually touch.
+
+> **Principle:** build it clean, make it scalable, and ship something you can maintain.
+
+<br/>
+
+## 🧩 What I Can Build For You
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ---
 
@@ -50,209 +64,97 @@
 
 ---
 
-## ◈ PROGRAMMING LANGUAGES
+### 🎮 Game Server Development
+- Game systems: account, character, vehicle, inventory, job, faction, business
+- Database integration & data persistence
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & Database
+- REST API & authentication
+- Server logic and architecture
+- **MySQL** schema design & optimization
+- Node.js / PHP / Python services
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Applications
+- UCP (User Control Panel) for game servers
+- Admin dashboards
+- Responsive landing pages & web tools
+- HTML, CSS, JavaScript, PHP
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Android Development
+- Android game client & launcher
+- In-app download, extraction & update system
+- Built with Android Studio (Java)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,php" />
+**Languages**
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,php&theme=dark" alt="Languages" />
+<br/>
+<sub>+ Pawn (open.mp)</sub>
 
-![C](https://img.shields.io/badge/C-PROGRAMMING-3949ab?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-PROGRAMMING-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-PROGRAMMING-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-PROGRAMMING-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-PROGRAMMING-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-BACKEND-777BB4?style=flat-square&logo=php&logoColor=white)
-![Pawn](https://img.shields.io/badge/PAWN-SA--MP%20/%20OPEN.MP-5b2cff?style=flat-square)
+<br/><br/>
 
-</div>
+**Backend · Web · Database**
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,php,py,html,css,js,mysql&theme=dark" alt="Backend and Web" />
 
-## ◈ GAME DEVELOPMENT
+<br/><br/>
 
-<div align="center">
+**Mobile · Server · Tools**
 
-![open.mp](https://img.shields.io/badge/OPEN.MP-MULTIPLAYER%20SERVER-6C3CFF?style=flat-square)
-![Pawn](https://img.shields.io/badge/PAWN-GAMEMODE%20DEVELOPMENT-0d1117?style=flat-square)
+<img src="https://skillicons.dev/icons?i=androidstudio,java,linux,bash,git,github,vscode,vs&theme=dark" alt="Mobile Server Tools" />
 
 </div>
 
----
+<br/>
 
-## ◈ WEB & BACKEND DEVELOPMENT
+## 🔄 How I Work
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,py,java" />
-
-<br><br>
-
-![HTML5](https://img.shields.io/badge/HTML5-FRONTEND-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-STYLING-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-BACKEND-00a82d?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-BACKEND-777BB4?style=flat-square&logo=php&logoColor=white)
-
-</div>
-
----
-
-## ◈ DATABASE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<br><br>
-
-![MySQL](https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## ◈ MOBILE DEVELOPMENT
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=androidstudio,java" />
-
-<br><br>
-
-![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-MOBILE%20DEVELOPMENT-00e676?style=flat-square&logo=androidstudio&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ANDROID-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-</div>
-
----
-
-## ◈ SYSTEM & SERVER
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-
-<br><br>
-
-![Linux](https://img.shields.io/badge/LINUX-SERVER-f5c400?style=flat-square&logo=linux&logoColor=black)
-![VPS](https://img.shields.io/badge/VPS-SERVER-0d1117?style=flat-square&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/BASH-TERMINAL-1fb800?style=flat-square&logo=gnubash&logoColor=white)
-
-</div>
-
----
-
-## ◈ DEVELOPMENT TOOLS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
-
-<br><br>
-
-![VS Code](https://img.shields.io/badge/VS%20CODE-EDITOR-3f6fdc?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-VERSION%20CONTROL-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-REPOSITORY-0d1117?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
----
-
-## ⟨ SYSTEM TERMINAL :: COMMAND LINE ⟩
-
-```bash
-user@github:~$ whoami
-
-> Backend Developer
-> Game Developer
-> Apk Developer
-> Web Developer
-> Android Developer
-
-user@github:~$ cat languages.conf
-
-> C
-> C++
-> PAWN
-> Python
-> Java
-> JavaScript
-> PHP
-
-user@github:~$ cat mission.conf
-
-> Building scalable systems and immersive game experiences.
-
-user@github:~$ ls projects/
-
-> Gamemode-OpenMp/
-> Web-Projects/
-> Backend-Projects/
-
-user@github:~$ system-status
-
-> DEVELOPMENT ................ ONLINE
-> DATABASE ................... ONLINE
-> GAME SYSTEM ................ ONLINE
-> BACKEND .................... ONLINE
-> WEB SYSTEM ................. ONLINE
-> APK SYSTEM ................. ONLINE
-
-> SYSTEM READY.
+```mermaid
+flowchart LR
+    A[💬 Discuss<br/>Requirements] --> B[📐 Plan<br/>& Design]
+    B --> C[⌨️ Build<br/>& Test]
+    C --> D[🚀 Deploy<br/>to Server]
+    D --> E[🛟 Support<br/>& Update]
 ```
 
----
+| Step | What You Get |
+|---|---|
+| **1. Discuss** | Clear scope, timeline, and price before any code is written |
+| **2. Plan** | Feature list and database structure agreed with you |
+| **3. Build** | Clean, commented, maintainable code with progress updates |
+| **4. Deploy** | Setup on your Linux / VPS server |
+| **5. Support** | Bug fixes and adjustments after delivery |
 
-## ⟨ CURRENT OBJECTIVES :: DEVELOPMENT ROADMAP ⟩
+<br/>
 
-```text
-[ ACTIVE ]
+## 🎯 Currently Working On
 
-[✓] MySQL Database Integration
-[✓] Backend Development
-[✓] Web Development
+- 🔨 Android game client architecture
+- 🔨 Backend, API & database systems
+- 📚 Always learning: *build, learn, improve, repeat*
 
-[ IN PROGRESS ]
-
-[>] Account & Character Systems
-[>] UCP Development
-[>] API Integration
-[>] Performance Optimization
-
-[ NEXT ]
-
-[ ] Advanced Backend Architecture
-[ ] More C / C++ Projects
-[ ] More Python Projects
-[ ] Web Dashboard Systems
-```
-
----
-
-## ⟨ ACTIVE DEVELOPMENT :: CURRENT SYSTEMS ⟩
-
-```text
-user@github:~$ systemctl status development
-
-● gamemode-openmp.service
-   ├─ Status  : ACTIVE
-   └─ Building multiplayer roleplay systems
-
-● web-development.service
-   ├─ Status  : ACTIVE
-   └─ Building modern web applications
-
-● backend.service
-   ├─ Status  : ACTIVE
-   └─ Database • API • Server Logic
-
-● database.service
-   ├─ Status  : ACTIVE
-   └─ MySQL • Account • Player Data
-
-STATUS: ALL DEVELOPMENT SYSTEMS OPERATIONAL
-```
+<br/>
 
 ---
 
@@ -310,5 +212,28 @@ DEVELOPMENT NETWORK
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
+
+## 🤝 Let's Work Together
+
+Have a project in mind? Send me a message with your idea, budget, and deadline and I'll reply with a clear plan.
+
+<div align="center">
+
+<a href="https://wa.me/62XXXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-YourUsername-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" alt="footer" />
+
+<sub>⭐ If you like my work, feel free to follow or star a repository.</sub>
 
 </div>
