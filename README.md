@@ -79,9 +79,9 @@ I'm **Muhammad Fakrurazi**, a developer who specializes in **web servers** and t
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,php&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,java,js,php&theme=dark" alt="Languages" />
 <br/>
-<sub>+ Pawn (open.mp)</sub>
+
 
 <br/><br/>
 
@@ -93,7 +93,7 @@ I'm **Muhammad Fakrurazi**, a developer who specializes in **web servers** and t
 
 **Mobile · Server · Tools**
 
-<img src="https://skillicons.dev/icons?i=androidstudio,java,linux,bash,git,github,vscode,vs&theme=dark" alt="Mobile Server Tools" />
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,vs&theme=dark" alt="Mobile Server Tools" />
 
 </div>
 
@@ -105,7 +105,6 @@ I'm **Muhammad Fakrurazi**, a developer who specializes in **web servers** and t
 flowchart LR
     A[💬 Discuss<br/>Requirements] --> B[📐 Plan<br/>& Design]
     B --> C[⌨️ Build<br/>& Test]
-    C --> D[🚀 Deploy<br/>to Server]
     D --> E[🛟 Support<br/>& Update]
 ```
 
@@ -121,7 +120,6 @@ flowchart LR
 
 ## 🎯 Currently Working On
 
-- 🔨 Android game client architecture
 - 🔨 Backend, API & database systems
 - 📚 Always learning: *build, learn, improve, repeat*
 
@@ -143,15 +141,6 @@ DEVELOPMENT NETWORK
 │   ├─ JavaScript
 │   └─ PHP
 │
-├── GAME SYSTEMS
-│   ├─ SA-MP
-│   ├─ open.mp
-│   ├─ Gamemode
-│   ├─ Account Systems
-│   ├─ Vehicle Systems
-│   ├─ Inventory Systems
-│   └─ Database Integration
-│
 ├── BACKEND
 │   ├─ Node.js
 │   ├─ PHP
@@ -165,15 +154,7 @@ DEVELOPMENT NETWORK
 │   ├─ JavaScript
 │   └─ Dashboard
 │
-├── MOBILE
-│   ├─ Android Studio
-│   ├─ Java
-│   └─ Android Client
-│
 └── SERVER
-    ├─ Linux
-    ├─ VPS
-    ├─ Bash
     ├─ Git
     └─ Deployment
 ```
