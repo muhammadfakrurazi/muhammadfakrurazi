@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,php,lua" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,php" />
 
 <br><br>
 
@@ -59,7 +59,6 @@
 ![Java](https://img.shields.io/badge/JAVA-PROGRAMMING-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-PROGRAMMING-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-BACKEND-777BB4?style=flat-square&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/LUA-SCRIPTING-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Pawn](https://img.shields.io/badge/PAWN-SA--MP%20/%20OPEN.MP-5b2cff?style=flat-square)
 
 </div>
@@ -70,10 +69,8 @@
 
 <div align="center">
 
-![SA-MP](https://img.shields.io/badge/SA--MP-GAME%20DEVELOPMENT-0d1117?style=flat-square)
 ![open.mp](https://img.shields.io/badge/OPEN.MP-MULTIPLAYER%20SERVER-6C3CFF?style=flat-square)
 ![Pawn](https://img.shields.io/badge/PAWN-GAMEMODE%20DEVELOPMENT-0d1117?style=flat-square)
-![Roleplay](https://img.shields.io/badge/ROLEPLAY-SYSTEM%20DEVELOPMENT-4c1bb5?style=flat-square)
 
 </div>
 
@@ -164,7 +161,7 @@ user@github:~$ whoami
 
 > Backend Developer
 > Game Developer
-> SA-MP / open.mp Developer
+> Apk Developer
 > Web Developer
 > Android Developer
 
@@ -172,7 +169,6 @@ user@github:~$ cat languages.conf
 
 > C
 > C++
-> Lua
 > PAWN
 > Python
 > Java
@@ -196,6 +192,7 @@ user@github:~$ system-status
 > GAME SYSTEM ................ ONLINE
 > BACKEND .................... ONLINE
 > WEB SYSTEM ................. ONLINE
+> APK SYSTEM ................. ONLINE
 
 > SYSTEM READY.
 ```
@@ -207,14 +204,12 @@ user@github:~$ system-status
 ```text
 [ ACTIVE ]
 
-[✓] SA-MP / open.mp Gamemode Development
 [✓] MySQL Database Integration
 [✓] Backend Development
 [✓] Web Development
 
 [ IN PROGRESS ]
 
-[>] Advanced Roleplay Systems
 [>] Account & Character Systems
 [>] UCP Development
 [>] API Integration
@@ -226,24 +221,6 @@ user@github:~$ system-status
 [ ] More C / C++ Projects
 [ ] More Python Projects
 [ ] Web Dashboard Systems
-```
-
----
-
-## ⟨ LANGUAGE CORE :: PROGRAMMING MATRIX ⟩
-
-```text
-┌──────────────────────────────────────────────────┐
-│  PROGRAMMING LANGUAGE MATRIX                     │
-│                                                  │
-│  C          ████████████░░   SYSTEM DEVELOPMENT  │
-│  C++        ████████████░░   APPLICATION DEV     │
-│  PAWN       ██████████████   SA-MP / open.mp     │
-│  Python     ██████████░░░░   SCRIPTING / BACKEND │
-│  Java       ██████████░░░░   ANDROID DEVELOPMENT │
-│  JavaScript ████████████░░   WEB / BACKEND       │
-│  PHP        ██████████░░░░   WEB BACKEND         │
-└──────────────────────────────────────────────────┘
 ```
 
 ---
@@ -283,7 +260,6 @@ DEVELOPMENT NETWORK
 │   ├─ C
 │   ├─ C++
 │   ├─ PAWN
-│   ├─ Lua
 │   ├─ Python
 │   ├─ Java
 │   ├─ JavaScript
@@ -292,7 +268,7 @@ DEVELOPMENT NETWORK
 ├── GAME SYSTEMS
 │   ├─ SA-MP
 │   ├─ open.mp
-│   ├─ Roleplay Gamemode
+│   ├─ Gamemode
 │   ├─ Account Systems
 │   ├─ Vehicle Systems
 │   ├─ Inventory Systems
