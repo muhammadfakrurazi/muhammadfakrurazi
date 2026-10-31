@@ -1,4 +1,4 @@
-muhammadfakrurazi@github:~$ whoami
+fakrurazi@github:~$ whoami
 > Full-Stack Web Engineer & Game Developer
 
 fakrurazi@github:~$ cat active_projects.conf
