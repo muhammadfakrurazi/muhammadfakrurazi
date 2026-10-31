@@ -132,10 +132,6 @@
     </g>
   </g>
 
-  <!-- outer border -->
-  <rect x="1" y="1" width="998" height="278" rx="17" fill="none" stroke="#1f6feb" stroke-opacity="0.6" stroke-width="2"/>
-</svg>
-
 ---
 
 ## ⟨ SYSTEM PROFILE :: IDENTITY CORE ⟩
